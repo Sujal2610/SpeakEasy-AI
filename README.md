@@ -13,7 +13,7 @@ It is a lightweight voice-controlled assistant built using Python. It listens to
 -Send emails using Gmail SMTP
 
 # Tech Stack
--Python 3.x
+-Python 3.13 (Recommended: Python 3.6 or later)
 -pyttsx3
 -SpeechRecognition
 -PyAudio
